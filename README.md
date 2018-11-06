@@ -8,7 +8,7 @@ make
 ./fractol [fractol number]
 ```
 where fractol number is from 1 to 4 with:
-#1 Mandelbrot Set
-#2 Julia Set
-#3 Burning Ship Set
+#1 Mandelbrot Set,
+#2 Julia Set,
+#3 Burning Ship Set,
 #4 Tricorn Set
