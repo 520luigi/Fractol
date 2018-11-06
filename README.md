@@ -6,7 +6,8 @@ This can be used on maco os, because the minilibx library used is for mac os. Ru
 ```
 make
 ./fractol [fractol number]
-
+```
+where fractol number is from 1 to 4 with:
 #1 Mandelbrot Set
 #2 Julia Set
 #3 Burning Ship Set
